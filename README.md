@@ -1,4 +1,4 @@
-# T1 Hackathon
+# T1 Clinic Optimization
 
 # The Easiest Solution at the Hackathon!
 
